@@ -1,6 +1,11 @@
 # GoUbiquitous
 App developed as part of coursework for [Udacity Android Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801).
 
+![Alt text](/wear/src/main/res/drawable-nodpi/preview_sunshine.png)
+
+![Alt text](/wear/src/main/res/drawable-nodpi/preview_sunshine_circular.png)
+
+
 ## License
     Copyright 2017 Darshan Dorai.
 
